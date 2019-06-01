@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/enwiki-20190220-abstract.xml
+/wiki-files.txt
+/parsed-files.txt
+/langprofiles-char-1_5-nfc-all.bin.gz
+/en_parsed.txt
